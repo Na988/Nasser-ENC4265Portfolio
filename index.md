@@ -30,8 +30,14 @@ Feel free to reach out through the following channels:
 - **Email:** [na815584@ucf.edu](mailto:na815584@ucf.edu)  
 - **GitHub:** 
 
----
+--- 
+<!-- Empty Line -->
 
+**[📄 View My Resume](ResumeNasser.pdf)**
+
+<!-- Empty Line -->
+
+---
 ## 🌈 Thank You for Visiting!
 Stay tuned for more updates and projects. 🚀
 
