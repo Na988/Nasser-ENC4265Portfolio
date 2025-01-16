@@ -3,7 +3,7 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-Welcome to my profile! I am a senior IT student at the University of Central Florida, with a strong passion for network engineering, cybersecurity, and software development. During my internship at Oman National CERT, I gained hands-on experience designing secure networks, configuring firewalls, and conducting vulnerability assessments. My skill set includes Java, Python, MySQL, and tools like Wireshark and Cisco Packet Tracer. I am actively seeking a full-time position. I am eager to leverage my skills in dynamic and innovative environments.
+Welcome to my profile! I am a senior IT student at the University of Central Florida, with a strong passion for network engineering, cybersecurity, and software development. During my internship at Oman National CERT, I gained hands-on experience designing secure networks, configuring firewalls, and conducting vulnerability assessments. My skill set includes Java, Python, MySQL, and tools like Wireshark and Cisco Packet Tracer. I am actively seeking a full-time position. I am eager to leverage my skills in dynamic and innovative environments. My dream job is Network Engineer.
 
 
 
