@@ -27,7 +27,7 @@ Here are some of my recent works:
 
 ## 📬 Contact Me
 Feel free to reach out through the following channels:
-- **Email:** [na815584@ucf.edu](mailto:na815584@ucf.edu)  
+- **Email:**  
 - **GitHub:** 
 
 --- 
