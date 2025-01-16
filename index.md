@@ -9,3 +9,5 @@ Welcome to my profile! I am a senior IT student at the University of Central Flo
 
 
 <center><img src="https://static.vecteezy.com/system/resources/thumbnails/035/632/738/small_2x/ai-generated-reality-of-young-people-reaching-the-mountains-at-sunrise-and-beautiful-views-in-the-afternoon-photo.jpg"></center>
+
+Website uses AI-generated designs
