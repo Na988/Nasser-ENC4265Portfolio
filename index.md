@@ -8,4 +8,4 @@ Welcome to my profile! I am a senior IT student at the University of Central Flo
 
 
 
-<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
+<center><img src="https://static.vecteezy.com/system/resources/thumbnails/035/632/738/small_2x/ai-generated-reality-of-young-people-reaching-the-mountains-at-sunrise-and-beautiful-views-in-the-afternoon-photo.jpg"></center>
