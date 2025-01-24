@@ -2,8 +2,8 @@
 
 # Table of Contents 
 1. [Reflective Blog 1: Wayback Analysis](#reflective-blog-1-analyzing-early-website-designs)
-2. [Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
+2. [Reflective Blog 2](#Reflective-Blog-2)
+3. [Reflective Blog 3](#Reflective-Blog-3)
    
 # Reflective Blog 1: Analyzing Early Website Designs  
 
@@ -18,3 +18,13 @@ Reflecting on these older styles of design, I realized why some principles, like
 
 ## Final Thoughts  
 Visiting this old site was interesting, seeing how far web design has progressed. It also reminded me of how fast technology develops, shaping user expectations along the way. While early websites were creative for their time, the web's growth has been pushed by an ongoing desire to enhance usability, a benchmark that future designers will definitely strive to meet.  
+
+
+# Reflective Blog 2: 
+TBD
+
+
+# Reflective Blog 3:
+TBD
+
+
