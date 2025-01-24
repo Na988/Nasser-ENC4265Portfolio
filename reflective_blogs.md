@@ -1,38 +1,20 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
 
 # Table of Contents 
-1. [Wayback Analysis](#wayback-analysis)
+1. [Reflective Blog 1: Wayback Analysis](#Reflective-Blog-1:-Analyzing-Early-Website-Designs)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
    
-# Wayback Analysis
+# Reflective Blog 1: Analyzing Early Website Designs  
 
-## Assignment Rationale 
+## Exploring the Past  
+To better understand how web design standards have changed, I looked at Angelfire-powered websites from the early 2000s. I quickly noted how unusual the layout was from other current websites. The webpage lacked typical navigation bars, with buttons dispersed throughout and a visual clash of strong and light colors. I also observed the lack of a search bar, something I now anticipate on every homepage, which made it difficult to find certain content.  
 
+## Jarring Differences  
+As a modern internet user, the experience was confusing. The text was often difficult to see because of low contrast with the background, and the different styles made it appear disorganized. In addition, links were occasionally hidden behind blocks of text rather than being widely shown. There were no dropdown menus, which made navigating subcategories difficult. Furthermore, I believed that the site appeared "flat" due to the lack of interactive components or graphics that we currently include on engaging web pages.  
 
----
-# Quick Start Guide
+## Why Modern Standards Work  
+Reflecting on these older styles of design, I realized why some principles, like a clean layout, simple navigation, and high-contrast colors, have become everywhere. These features focus the user experience in order to promote accessibility and simplicity of usage. While the early website may have been useful at the time, the lack of polish and organization makes it nearly ineffective now. This highlights the importance of current web design approaches in generating seamless digital experiences for users.  
 
-## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
-
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
-
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
-
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
----
-# Reflective Blog 3
-TBD
+## Final Thoughts  
+Visiting this old site was interesting, seeing how far web design has progressed. It also reminded me of how fast technology develops, shaping user expectations along the way. While early websites were creative for their time, the web's growth has been pushed by an ongoing desire to enhance usability, a benchmark that future designers will definitely strive to meet.  
