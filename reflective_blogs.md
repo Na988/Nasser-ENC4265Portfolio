@@ -1,7 +1,7 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
 
 # Table of Contents 
-1. [Reflective Blog 1: Wayback Analysis](#Reflective-Blog-1:-Analyzing-Early-Website-Designs)
+1. [Reflective Blog 1: Wayback Analysis](#reflective-blog-1:-analyzing-early-website-designs)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
    
