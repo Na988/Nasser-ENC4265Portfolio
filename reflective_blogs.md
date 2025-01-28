@@ -80,8 +80,9 @@ Edited Using Copilot
 5. Create or log in to your Fitbit account.
 6. Complete the setup by entering your preferences (e.g., step goals, notification preferences).
 
-**Figure 4.** Setting up your device in the Fitbit app.  
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app download page" style="width:300px; height:auto;">
+**Figure 4.** Setting up your device in the Fitbit app.
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg" alt="Image of Fitbit app adding new device via Bluetooth" style="width:300px; height:auto;">
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app choosing smartwatch model" style="width:300px; height:auto;">
 
 ---
 
