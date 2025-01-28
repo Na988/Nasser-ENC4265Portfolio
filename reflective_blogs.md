@@ -100,7 +100,6 @@ Edited Using Copilot
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(2).jpeg" alt="Image Fitbit app setting" style="width:300px; height:auto;">
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(1).jpeg" alt="Image of Fitbit app dashboard" style="width:300px; height:auto;">
 
-
 ---
 
 ### You're All Set!
