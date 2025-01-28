@@ -29,13 +29,13 @@ Edited Using Copilot
 
 # Reflective Blog 2  
 
-  # Quick-Start Guide: Setting Up Your Fitbit Smartwatch
+  ## Quick-Start Guide: Setting Up Your Fitbit Smartwatch
 
 **Welcome!** This guide will help you set up your Fitbit smartwatch in just a few simple steps. By the end, you'll have your device ready to track your fitness, monitor your sleep, and much more. Follow the instructions below carefully.
 
 ---
 
-## Step 1: Unbox Your Fitbit Smartwatch
+### Step 1: Unbox Your Fitbit Smartwatch
 
 1. Open the box and ensure all components are present:
    - Fitbit smartwatch
@@ -48,7 +48,7 @@ Edited Using Copilot
 
 ---
 
-## Step 2: Charge Your Fitbit Smartwatch
+### Step 2: Charge Your Fitbit Smartwatch
 
 1. Connect the charging cable to a USB port or wall adapter.
 2. Align the charging pins on the cable with the charging port on the back of the smartwatch.
@@ -59,7 +59,7 @@ Edited Using Copilot
 
 ---
 
-## Step 3: Download the Fitbit App
+### Step 3: Download the Fitbit App
 
 1. On your smartphone, go to the **App Store** (iPhone) or **Google Play Store** (Android).
 2. Search for the **Fitbit** app.
@@ -71,7 +71,7 @@ Edited Using Copilot
 
 ---
 
-## Step 4: Set Up Your Fitbit
+### Step 4: Set Up Your Fitbit
 
 1. Open the Fitbit app and select **Set Up a New Device**.
 2. Choose your smartwatch model from the list.
@@ -84,7 +84,7 @@ Edited Using Copilot
 
 ---
 
-## Step 5: Customize and Start Using Your Fitbit
+### Step 5: Customize and Start Using Your Fitbit
 
 1. Choose a clock face and sync it with your smartwatch.
 2. Adjust settings such as notifications, alarms, and activity reminders.
@@ -98,7 +98,7 @@ Edited Using Copilot
 
 ---
 
-## You're All Set!
+### You're All Set!
 
 Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on your wrist, and start tracking your fitness goals today.
 
