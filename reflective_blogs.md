@@ -68,7 +68,7 @@ Edited Using Copilot
 4. Open the app after it finishes installing.
 
 **Figure 3.** Fitbit app on the App Store.  
-![Image of Fitbit app download page](https://via.placeholder.com/300x200)
+![Image of Fitbit app download page]([https://via.placeholder.com/300x200](https://github.com/Na988/Nasser-ENC4265Portfolio/blob/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg))
 
 ---
 
