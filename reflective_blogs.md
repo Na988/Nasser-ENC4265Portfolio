@@ -82,8 +82,7 @@ Edited Using Copilot
 
 **Figure 4.** Setting up your device in the Fitbit app.
 
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg" alt="Image of Fitbit app adding new device via Bluetooth" style="width:300px; height:auto;">
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app choosing smartwatch model" style="width:300px; height:auto;">
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg" alt="Image of Fitbit app adding new device via Bluetooth" style="width:300px; height:auto;"> <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app choosing smartwatch model" style="width:300px; height:auto;">
 
 ---
 
