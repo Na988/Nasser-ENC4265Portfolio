@@ -56,7 +56,7 @@ Edited Using Copilot
 3. Ensure the device begins charging (you'll see a charging icon on the screen). Allow it to charge fully before proceeding.
 
 **Figure 2.** Fitbit smartwatch connected to the charging cable.  
-![Image of Fitbit charging]([https://via.placeholder.com/300x200](https://github.com/Na988/Nasser-ENC4265Portfolio/blob/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg))
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg" alt="Image of Fitbit charging" style="width:300px; height:auto;">
 
 ---
 
@@ -68,7 +68,7 @@ Edited Using Copilot
 4. Open the app after it finishes installing.
 
 **Figure 3.** Fitbit app on the App Store.  
-![Image of Fitbit app download page]([https://via.placeholder.com/300x200](https://github.com/Na988/Nasser-ENC4265Portfolio/blob/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg))
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg" alt="Image of Fitbit app download page" style="width:300px; height:auto;">
 
 ---
 
