@@ -43,13 +43,9 @@ Edited Using Copilot
    - Quick start manual
 2. Remove the protective films from the watch and accessories.
 
-**Figure 1.** Fitbit smartwatch and included accessories.  
-![Image of unboxed Fitbit smartwatch and accessories](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg)
+**Figure 1.** Fitbit smartwatch and included accessories.
 
-img {
-  max-width: 300px;
-  height: auto;
-}
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg" alt="Image of unboxed Fitbit smartwatch and accessories" style="width:300px;">
 
 ---
 
