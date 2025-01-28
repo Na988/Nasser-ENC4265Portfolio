@@ -29,7 +29,7 @@ Visiting this old site was interesting, seeing how far web design has progressed
 
 # Reflective Blog 2  
 
-  ## Quick-Start Guide: Setting Up Your Fitbit Smartwatch
+## Quick-Start Guide: Setting Up Your Fitbit Smartwatch
 
 **Welcome!** This guide will help you set up your Fitbit smartwatch in just a few simple steps. By the end, you'll have your device ready to track your fitness, monitor your sleep, and much more. Follow the instructions below carefully.
 
