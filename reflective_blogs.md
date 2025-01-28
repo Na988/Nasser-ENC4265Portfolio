@@ -105,7 +105,7 @@ Visiting this old site was interesting, seeing how far web design has progressed
 
 Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on your wrist, and start tracking your fitness goals today.
 
-[Edited useing ChatGPT]
+[Edited using ChatGPT]
 
 ---
 
