@@ -23,7 +23,7 @@ Reflecting on these older styles of design, I realized why some principles, like
 ### Final Thoughts  
 Visiting this old site was interesting, seeing how far web design has progressed. It also reminded me of how fast technology develops, shaping user expectations along the way. While early websites were creative for their time, the web's growth has been pushed by an ongoing desire to enhance usability, a benchmark that future designers will definitely strive to meet.  
 
-Edited Using Copilot
+[Edited Using Copilot]
 
 ---
 
@@ -105,6 +105,7 @@ Edited Using Copilot
 
 Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on your wrist, and start tracking your fitness goals today.
 
+[Edited useing ChatGPT]
 
 ---
 
