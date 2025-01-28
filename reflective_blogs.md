@@ -96,7 +96,7 @@ Edited Using Copilot
    - Log your sleep patterns.
 
 **Figure 5.** Fitbit dashboard showing stats and customization options.  
-![Image of Fitbit dashboard](https://via.placeholder.com/300x200)
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(2).jpeg" alt="Image Fitbit app setting" style="width:300px; height:auto;">
 
 ---
 
