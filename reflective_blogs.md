@@ -44,7 +44,7 @@ Edited Using Copilot
 2. Remove the protective films from the watch and accessories.
 
 **Figure 1.** Fitbit smartwatch and included accessories.  
-![Image of unboxed Fitbit smartwatch and accessories](WhatsApp Image 2025-01-27 at 8.20.49 PM.jpeg)
+![Image of unboxed Fitbit smartwatch and accessories]([WhatsApp Image 2025-01-27 at 8.20.49 PM.jpeg](https://github.com/Na988/Nasser-ENC4265Portfolio/blob/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg))
 
 ---
 
