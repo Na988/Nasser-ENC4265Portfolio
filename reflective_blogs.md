@@ -76,13 +76,12 @@ Edited Using Copilot
 
 1. Open the Fitbit app and select **Set Up a New Device**.
 2. Choose your smartwatch model from the list.
-   <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app download page" style="width:300px; height:auto;">
 4. Follow the on-screen instructions to pair your device via **Bluetooth**.
 5. Create or log in to your Fitbit account.
 6. Complete the setup by entering your preferences (e.g., step goals, notification preferences).
 
 **Figure 4.** Setting up your device in the Fitbit app.  
-![Image of setup page in Fitbit app](https://via.placeholder.com/300x200)
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app download page" style="width:300px; height:auto;">
 
 ---
 
