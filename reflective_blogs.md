@@ -35,7 +35,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ---  
 
-## Step 1: Unbox and Charge Your Fitbit  
+**Step 1: Unbox and Charge Your Fitbit**  
 
 1. Open the box and confirm all components are included:  
    - Fitbit smartwatch  
@@ -54,7 +54,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ---  
 
-## Step 2: Download and Install the Fitbit App  
+**Step 2: Download and Install the Fitbit App**  
 
 6. Open the **App Store** (iPhone) or **Google Play Store** (Android).  
 7. Search for **"Fitbit: Health & Fitness"** (the official app name).  
@@ -66,7 +66,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ---  
 
-## Step 3: Set Up Your Fitbit Smartwatch  
+**Step 3: Set Up Your Fitbit Smartwatch**  
 
 10. Open the Fitbit app and tap **Set Up a New Device**.  
 11. Select your smartwatch model from the list.  
@@ -88,7 +88,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ---  
 
-## Step 4: Customize and Sync Your Fitbit  
+**Step 4: Customize and Sync Your Fitbit**
 
 15. Select a clock face from the available options and sync it with the smartwatch.  
 16. Adjust settings such as:  
@@ -107,7 +107,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ---  
 
-## Step 5: Wear Your Fitbit Smartwatch  
+**Step 5: Wear Your Fitbit Smartwatch** 
 
 18. Place the watch on your wrist.  
 19. Adjust the band so it is snug but comfortable.  
