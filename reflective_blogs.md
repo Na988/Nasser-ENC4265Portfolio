@@ -115,6 +115,8 @@ Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on y
 
 I used a genrative AI tool (Boodlebox) to genrate the requiered tasks in the peompt. Here is the result: 
 
+**[📄 View My Orginal Resume before Revision](ResumeNasser.pdf)**
+
 Based on your resume, you appear best suited for positions such as:
 
 1. Network Security Engineer/Analyst
@@ -152,6 +154,10 @@ Suggested improvements to make your resume more appealing:
 5. **Professional Summary**
    - Add a brief professional summary at the top highlighting your security and networking expertise
    - Emphasize your bilingual capabilities as a unique selling point
+
+
+**[📄 View My Resume after Revision](ResumeNasser.pdf)**
+
 
 ### Reflection Points:
 The AI conducted a comprehensive review of my resume and suggested several strategic improvements that significantly enhanced its professional appeal. The most notable change was the addition of a strong professional summary at the beginning, which immediately highlights my expertise in network security and IT, along with my valuable bilingual capabilities. This addition helps create a powerful first impression and sets the tone for the rest of the document.
