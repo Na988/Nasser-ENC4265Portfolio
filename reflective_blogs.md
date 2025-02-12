@@ -115,7 +115,7 @@ Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on y
 
 I used a genrative AI tool (Boodlebox) to genrate the requiered tasks in the peompt. Here is the result: 
 
-**[📄 View My Orginal Resume before Revision](ResumeNasser.pdf)**
+**[📄 View My Orginal Resume before Revision](ResumeNasserBeforeAI.docx)**
 
 Based on your resume, you appear best suited for positions such as:
 
