@@ -68,14 +68,14 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 **Step 3: Set Up Your Fitbit Smartwatch**  
 
-10. Open the Fitbit app and tap **Set Up a New Device**.  
-11. Select your smartwatch model from the list.  
-12. Follow on-screen instructions to pair the device via **Bluetooth**.  
-13. Log in with an existing Fitbit account or create a new account:  
+10.Open the Fitbit app and tap **Set Up a New Device**.  
+11.Select your smartwatch model from the list.  
+12.Follow on-screen instructions to pair the device via **Bluetooth**.  
+13.Log in with an existing Fitbit account or create a new account:  
    - Enter your email address and create a password.  
    - Provide basic profile details such as height, weight, and activity level.  
    - Accept Fitbit’s terms and conditions.  
-14. Follow setup instructions:  
+14.Follow setup instructions:  
    - Connect to Wi-Fi (if required).  
    - Set step goals and notification preferences.  
    - Enable health tracking features or skip for later.  
