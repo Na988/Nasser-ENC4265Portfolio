@@ -113,56 +113,48 @@ Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on y
 
 ## Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
 
-I will analyze your resume and provide suggestions for positions you're best suited for, along with recommendations for improvements.
-
 Based on your resume, you appear best suited for positions such as:
 
-Network Security Engineer/Analyst
-IT Systems Administrator
-Information Security Specialist
-Network Infrastructure Engineer
+1. Network Security Engineer/Analyst
+2. IT Systems Administrator
+3. Information Security Specialist
+4. Network Infrastructure Engineer
+
 This assessment is based on your strong combination of:
+- Network engineering experience (OCERT internship)
+- Security-focused technical skills
+- System administration knowledge
+- Programming capabilities
+- Teaching experience showing leadership/communication skills
 
-Network engineering experience (OCERT internship)
-Security-focused technical skills
-System administration knowledge
-Programming capabilities
-Teaching experience showing leadership/communication skills
+Suggested improvements to make your resume more appealing:
 
+1. **Achievement Quantification**
+   - Add specific metrics to your OCERT internship (e.g., number of systems secured, percentage improvement in security posture)
+   - Quantify the impact of your teaching assistant role (number of students helped, improvement in class performance)
 
-Key Changes Suggested:
+2. **Technical Skills Organization**
+   - Group your technical skills into clear categories (Security, Networking, Programming, etc.)
+   - Highlight the most relevant skills for your target position first
 
-Added Professional Summary
+3. **Project Section Enhancement**
+   - Add more specific outcomes for each project
+   - Include any security-related projects given your strong background in networking/security
+   - Consider adding links to live demos or repositories where appropriate
 
-Created a powerful opening statement highlighting your IT/Network Security focus
-Emphasized bilingual capabilities as a unique selling point
-Restructured Format
+4. **Certifications Focus**
+   - Move certifications section higher up
+   - Consider adding more security-focused certifications given your career direction
+   - Highlight any ongoing certification pursuits
 
-Reorganized sections for better flow and readability
-Grouped technical skills into clear categories
-Moved certifications to a more prominent position
-Enhanced Content
+5. **Professional Summary**
+   - Add a brief professional summary at the top highlighting your security and networking expertise
+   - Emphasize your bilingual capabilities as a unique selling point
 
-Added specific metrics and outcomes to experiences
-Strengthened action verbs and technical descriptions
-Expanded on project details with more technical specificity
-Highlighted security-focused experiences more prominently
-Skills Presentation
+Reflection Points:
+- Your resume shows a strong technical foundation with a good mix of academic and practical experience
+- The combination of networking, security, and programming skills makes you particularly valuable in cybersecurity roles
+- Your teaching experience demonstrates soft skills that many technical candidates lack
+- The international experience and bilingual abilities add unique value to your profile
 
-Categorized technical skills for better clarity
-Emphasized security and networking capabilities
-Better highlighted your bilingual abilities
-Reflection:
-
-Your original resume had strong foundational elements but needed better organization and emphasis on achievements
-The combination of technical expertise (especially in networking/security) and teaching experience makes you a unique candidate
-Your international experience and bilingual skills are valuable differentiators
-The projects section shows practical application of your skills, which is attractive to employers
-Your academic achievements and certifications demonstrate both capability and commitment to continuous learning
-Learning Points:
-
-Quantifying achievements makes experiences more impactful
-Strategic organization of information can better highlight key strengths
-A professional summary can quickly capture attention and set the tone
-Emphasizing security-focused experiences aligns well with current market demands
-
+Would you like me to help you craft a specific professional summary or rewrite any particular section of your resume?
