@@ -115,7 +115,7 @@ Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on y
 
 I used a genrative AI tool (Boodlebox) to genrate the requiered tasks in the peompt. Here is the result: 
 
-**[📄 View My Orginal Resume before Revision](ResumeNasserBeforeAI.docx)**
+**[📄 View My Orginal Resume before Revision](ResumeNasserBeforeAI.pdf)**
 
 Based on your resume, you appear best suited for positions such as:
 
@@ -156,7 +156,7 @@ Suggested improvements to make your resume more appealing:
    - Emphasize your bilingual capabilities as a unique selling point
 
 
-**[📄 View My Resume after Revision](AIRevisedResume.docx)**
+**[📄 View My Resume after Revision](AIRevisedResume.pdf)**
 
 
 ### Reflection Points:
