@@ -46,10 +46,10 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 4. Align the charging pins on the cable with the charging port on the smartwatch.  
 5. Ensure the device starts charging (a charging icon appears on the screen).  
 
-![Fitbit smartwatch and accessories](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg" width="300">  
 *Figure 1: Fitbit smartwatch and included accessories (Photo by Nasser)*  
 
-![Fitbit charging](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg" width="300">  
 *Figure 2: Fitbit smartwatch connected to the charging cable (Photo by Nasser)*  
 
 ---  
@@ -61,7 +61,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 8. Tap **Download** or **Install** to install the app.  
 9. Open the app after installation.  
 
-![Fitbit app download page](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg" width="300">  
 *Figure 3: Fitbit app on the App Store (Photo by Nasser)*  
 
 ---  
@@ -80,10 +80,10 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
    - Set step goals and notification preferences.  
    - Enable health tracking features or skip for later.  
 
-![Fitbit app setup screen](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg" width="300">  
 *Figure 4: Selecting a device in the Fitbit app (Photo by Nasser)*  
 
-![Fitbit smartwatch model selection](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" width="300">  
 *Figure 5: Choosing a smartwatch model in the Fitbit app (Photo by Nasser)*  
 
 ---  
@@ -99,10 +99,10 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
    - Track steps, heart rate, and workouts.  
    - Log sleep patterns.  
 
-![Fitbit app settings](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(2).jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(2).jpeg" width="300">  
 *Figure 6: Fitbit settings and customization options (Photo by Nasser)*  
 
-![Fitbit app dashboard](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(1).jpeg)  
+<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(1).jpeg" width="300">  
 *Figure 7: Fitbit dashboard showing fitness stats (Photo by Nasser)*  
 
 ---  
@@ -112,7 +112,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 18. Place the watch on your wrist.  
 19. Adjust the band so it is snug but comfortable.  
 
-Your Fitbit smartwatch is now ready to use.  
+Your Fitbit smartwatch is now ready to use.   
 
 [Edited using ChatGPT]
 
