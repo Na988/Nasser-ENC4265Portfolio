@@ -29,81 +29,90 @@ Visiting this old site was interesting, seeing how far web design has progressed
 
 # Reflective Blog 2  
 
-## Quick-Start Guide: Setting Up Your Fitbit Smartwatch
+# Quick-Start Guide: Setting Up Your Fitbit Smartwatch  
 
-**Welcome!** This guide will help you set up your Fitbit smartwatch in just a few simple steps. By the end, you'll have your device ready to track your fitness, monitor your sleep, and much more. Follow the instructions below carefully.
+Follow these steps to set up your Fitbit smartwatch for tracking fitness, monitoring sleep, and other features.  
 
----
+---  
 
-### Step 1: Unbox Your Fitbit Smartwatch
+## Step 1: Unbox and Charge Your Fitbit  
 
-1. Open the box and ensure all components are present:
-   - Fitbit smartwatch
-   - Charging cable
-   - Quick start manual
-2. Remove the protective films from the watch and accessories.
+1. Open the box and confirm all components are included:  
+   - Fitbit smartwatch  
+   - Charging cable  
+   - Quick-start manual  
+2. Remove protective films from the watch and accessories.  
+3. Connect the charging cable to a USB port or wall adapter.  
+4. Align the charging pins on the cable with the charging port on the smartwatch.  
+5. Ensure the device starts charging (a charging icon appears on the screen).  
 
-**Figure 1.** Fitbit smartwatch and included accessories.
+![Fitbit smartwatch and accessories](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg)  
+*Figure 1: Fitbit smartwatch and included accessories (Photo by Nasser)*  
 
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg" alt="Image of unboxed Fitbit smartwatch and accessories" style="width:300px;">
+![Fitbit charging](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg)  
+*Figure 2: Fitbit smartwatch connected to the charging cable (Photo by Nasser)*  
 
----
+---  
 
-### Step 2: Charge Your Fitbit Smartwatch
+## Step 2: Download and Install the Fitbit App  
 
-1. Connect the charging cable to a USB port or wall adapter.
-2. Align the charging pins on the cable with the charging port on the back of the smartwatch.
-3. Ensure the device begins charging (you'll see a charging icon on the screen). Allow it to charge fully before proceeding.
+6. Open the **App Store** (iPhone) or **Google Play Store** (Android).  
+7. Search for **"Fitbit: Health & Fitness"** (the official app name).  
+8. Tap **Download** or **Install** to install the app.  
+9. Open the app after installation.  
 
-**Figure 2.** Fitbit smartwatch connected to the charging cable.  
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg" alt="Image of Fitbit charging" style="width:300px; height:auto;">
+![Fitbit app download page](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg)  
+*Figure 3: Fitbit app on the App Store (Photo by Nasser)*  
 
----
+---  
 
-### Step 3: Download the Fitbit App
+## Step 3: Set Up Your Fitbit Smartwatch  
 
-1. On your smartphone, go to the **App Store** (iPhone) or **Google Play Store** (Android).
-2. Search for the **Fitbit** app.
-3. Tap **Download** or **Install** to begin the installation.
-4. Open the app after it finishes installing.
+10. Open the Fitbit app and tap **Set Up a New Device**.  
+11. Select your smartwatch model from the list.  
+12. Follow on-screen instructions to pair the device via **Bluetooth**.  
+13. Log in with an existing Fitbit account or create a new account:  
+   - Enter your email address and create a password.  
+   - Provide basic profile details such as height, weight, and activity level.  
+   - Accept Fitbit’s terms and conditions.  
+14. Follow setup instructions:  
+   - Connect to Wi-Fi (if required).  
+   - Set step goals and notification preferences.  
+   - Enable health tracking features or skip for later.  
 
-**Figure 3.** Fitbit app on the App Store.  
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg" alt="Image of Fitbit app download page" style="width:300px; height:auto;">
+![Fitbit app setup screen](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg)  
+*Figure 4: Selecting a device in the Fitbit app (Photo by Nasser)*  
 
----
+![Fitbit smartwatch model selection](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg)  
+*Figure 5: Choosing a smartwatch model in the Fitbit app (Photo by Nasser)*  
 
-### Step 4: Set Up Your Fitbit
+---  
 
-1. Open the Fitbit app and select **Set Up a New Device**.
-2. Choose your smartwatch model from the list.
-4. Follow the on-screen instructions to pair your device via **Bluetooth**.
-5. Create or log in to your Fitbit account.
-6. Complete the setup by entering your preferences (e.g., step goals, notification preferences).
+## Step 4: Customize and Sync Your Fitbit  
 
-**Figure 4.** Setting up your device in the Fitbit app.
+15. Select a clock face from the available options and sync it with the smartwatch.  
+16. Adjust settings such as:  
+   - Notifications for calls, texts, and apps.  
+   - Alarms and reminders.  
+   - Activity tracking preferences.  
+17. Explore Fitbit features:  
+   - Track steps, heart rate, and workouts.  
+   - Log sleep patterns.  
 
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(4).jpeg" alt="Image of Fitbit app adding new device via Bluetooth" style="width:300px; height:auto;"> <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" alt="Image of Fitbit app choosing smartwatch model" style="width:300px; height:auto;">
+![Fitbit app settings](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(2).jpeg)  
+*Figure 6: Fitbit settings and customization options (Photo by Nasser)*  
 
----
+![Fitbit app dashboard](https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(1).jpeg)  
+*Figure 7: Fitbit dashboard showing fitness stats (Photo by Nasser)*  
 
-### Step 5: Customize and Start Using Your Fitbit
+---  
 
-1. Choose a clock face and sync it with your smartwatch.
-2. Adjust settings such as notifications, alarms, and activity reminders.
-3. Start exploring the features:
-   - Track your steps and workouts.
-   - Monitor your heart rate.
-   - Log your sleep patterns.
+## Step 5: Wear Your Fitbit Smartwatch  
 
-**Figure 5.** Fitbit dashboard showing stats and customization options.  
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(2).jpeg" alt="Image Fitbit app setting" style="width:300px; height:auto;">
-<img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(1).jpeg" alt="Image of Fitbit app dashboard" style="width:300px; height:auto;">
+18. Place the watch on your wrist.  
+19. Adjust the band so it is snug but comfortable.  
 
----
-
-### You're All Set!
-
-Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on your wrist, and start tracking your fitness goals today.
+Your Fitbit smartwatch is now ready to use.  
 
 [Edited using ChatGPT]
 
