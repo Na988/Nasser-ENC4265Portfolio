@@ -113,6 +113,8 @@ Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on y
 
 ## Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
 
+I used a genrative AI tool (Boodlebox) to genrate the requiered tasks in the peompt. Here is the result: 
+
 Based on your resume, you appear best suited for positions such as:
 
 1. Network Security Engineer/Analyst
@@ -151,10 +153,11 @@ Suggested improvements to make your resume more appealing:
    - Add a brief professional summary at the top highlighting your security and networking expertise
    - Emphasize your bilingual capabilities as a unique selling point
 
-Reflection Points:
-- Your resume shows a strong technical foundation with a good mix of academic and practical experience
-- The combination of networking, security, and programming skills makes you particularly valuable in cybersecurity roles
-- Your teaching experience demonstrates soft skills that many technical candidates lack
-- The international experience and bilingual abilities add unique value to your profile
+### Reflection Points:
+The AI conducted a comprehensive review of my resume and suggested several strategic improvements that significantly enhanced its professional appeal. The most notable change was the addition of a strong professional summary at the beginning, which immediately highlights my expertise in network security and IT, along with my valuable bilingual capabilities. This addition helps create a powerful first impression and sets the tone for the rest of the document.
 
-Would you like me to help you craft a specific professional summary or rewrite any particular section of your resume?
+One of the most impactful changes was the restructuring of my technical skills into clear, organized categories. This made my capabilities more easily scannable for potential employers and demonstrated a logical thought process. The AI also emphasized the importance of quantifying achievements, suggesting the addition of specific metrics to my experiences, particularly in my OCERT internship and teaching assistant role. This transformation helped translate my experiences from mere responsibilities into concrete, measurable accomplishments.
+
+Through this process, I learned several valuable lessons about effective resume writing. First, I realized the importance of presenting information in a way that tells a coherent professional story rather than just listing experiences. The AI helped me understand that my combination of technical expertise and teaching experience is actually a unique selling point that sets me apart from other candidates. Additionally, I learned the significance of tailoring the resume to specific career paths – in my case, focusing on network security and IT infrastructure roles.
+
+Perhaps the most enlightening aspect was seeing how my international experience and bilingual abilities could be positioned as valuable assets rather than just background information. The AI helped me understand that these skills are increasingly important in our globalized tech industry and should be highlighted accordingly. This experience has given me a new perspective on personal branding and how to effectively communicate my professional value to potential employers.
