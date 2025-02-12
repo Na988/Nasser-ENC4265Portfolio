@@ -110,7 +110,59 @@ Congratulations! Your Fitbit smartwatch is now ready to use. Wear it snugly on y
 ---
 
 # Reflective Blog 3  
-**Content Coming Soon**  
+
+## Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
+
+I will analyze your resume and provide suggestions for positions you're best suited for, along with recommendations for improvements.
+
+Based on your resume, you appear best suited for positions such as:
+
+Network Security Engineer/Analyst
+IT Systems Administrator
+Information Security Specialist
+Network Infrastructure Engineer
+This assessment is based on your strong combination of:
+
+Network engineering experience (OCERT internship)
+Security-focused technical skills
+System administration knowledge
+Programming capabilities
+Teaching experience showing leadership/communication skills
 
 
+Key Changes Suggested:
+
+Added Professional Summary
+
+Created a powerful opening statement highlighting your IT/Network Security focus
+Emphasized bilingual capabilities as a unique selling point
+Restructured Format
+
+Reorganized sections for better flow and readability
+Grouped technical skills into clear categories
+Moved certifications to a more prominent position
+Enhanced Content
+
+Added specific metrics and outcomes to experiences
+Strengthened action verbs and technical descriptions
+Expanded on project details with more technical specificity
+Highlighted security-focused experiences more prominently
+Skills Presentation
+
+Categorized technical skills for better clarity
+Emphasized security and networking capabilities
+Better highlighted your bilingual abilities
+Reflection:
+
+Your original resume had strong foundational elements but needed better organization and emphasis on achievements
+The combination of technical expertise (especially in networking/security) and teaching experience makes you a unique candidate
+Your international experience and bilingual skills are valuable differentiators
+The projects section shows practical application of your skills, which is attractive to employers
+Your academic achievements and certifications demonstrate both capability and commitment to continuous learning
+Learning Points:
+
+Quantifying achievements makes experiences more impactful
+Strategic organization of information can better highlight key strengths
+A professional summary can quickly capture attention and set the tone
+Emphasizing security-focused experiences aligns well with current market demands
 
