@@ -156,7 +156,7 @@ Suggested improvements to make your resume more appealing:
    - Emphasize your bilingual capabilities as a unique selling point
 
 
-**[📄 View My Resume after Revision](AIRevisedResume.pdf)**
+**[📄 View My Resume after Revision](AI-Revised-Resume.pdf)**
 
 
 ### Reflection Points:
