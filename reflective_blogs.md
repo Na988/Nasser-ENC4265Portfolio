@@ -112,7 +112,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 18. Place the watch on your wrist.  
 19. Adjust the band so it is snug but comfortable.  
 
-Your Fitbit smartwatch is now ready to use.   
+Your Fitbit smartwatch is now ready to use.  
 
 [Edited using ChatGPT]
 
