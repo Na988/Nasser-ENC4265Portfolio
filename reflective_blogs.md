@@ -52,30 +52,28 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(2).jpeg" width="300">  
 *Figure 2: Fitbit smartwatch connected to the charging cable (Photo by Nasser)*  
 
----  
 
 ## Step 2: Download and Install the Fitbit App  
 
-2. Open the **App Store** (iPhone) or **Google Play Store** (Android).
-2. Search for **"Fitbit: Health & Fitness"** (the official app name).  
-2. Tap **Download** or **Install** to install the app.  
-2. Open the app after installation.  
+1. Open the **App Store** (iPhone) or **Google Play Store** (Android).
+1. Search for **"Fitbit: Health & Fitness"** (the official app name).  
+1. Tap **Download** or **Install** to install the app.  
+1. Open the app after installation.  
 
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg" width="300">  
 *Figure 3: Fitbit app on the App Store (Photo by Nasser)*  
 
----  
 
 ## Step 3: Set Up Your Fitbit Smartwatch  
 
-1. Open the Fitbit app and tap **Set Up a New Device**.
-1. Select your smartwatch model from the list.  
-1. Follow on-screen instructions to pair the device via **Bluetooth**.  
-1. Log in with an existing Fitbit account or create a new account:  
+10.Open the Fitbit app and tap **Set Up a New Device**.
+10.Select your smartwatch model from the list.  
+11.Follow on-screen instructions to pair the device via **Bluetooth**.  
+12.Log in with an existing Fitbit account or create a new account:  
    - Enter your email address and create a password.  
    - Provide basic profile details such as height, weight, and activity level.  
    - Accept Fitbit’s terms and conditions.  
-1. Follow setup instructions:  
+13.Follow setup instructions:  
    - Connect to Wi-Fi (if required).  
    - Set step goals and notification preferences.  
    - Enable health tracking features or skip for later.  
