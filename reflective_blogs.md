@@ -56,10 +56,10 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ## Step 2: Download and Install the Fitbit App  
 
-6.Open the **App Store** (iPhone) or **Google Play Store** (Android).  
-7.Search for **"Fitbit: Health & Fitness"** (the official app name).  
-8.Tap **Download** or **Install** to install the app.  
-9.Open the app after installation.  
+6. Open the **App Store** (iPhone) or **Google Play Store** (Android).  
+7. Search for **"Fitbit: Health & Fitness"** (the official app name).  
+8. Tap **Download** or **Install** to install the app.  
+9. Open the app after installation.  
 
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM%20(3).jpeg" width="300">  
 *Figure 3: Fitbit app on the App Store (Photo by Nasser)*  
