@@ -41,10 +41,10 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
    - Fitbit smartwatch  
    - Charging cable  
    - Quick-start manual  
-2. Remove protective films from the watch and accessories.  
-3. Connect the charging cable to a USB port or wall adapter.  
-4. Align the charging pins on the cable with the charging port on the smartwatch.  
-5. Ensure the device starts charging (a charging icon appears on the screen).  
+1. Remove protective films from the watch and accessories.  
+1. Connect the charging cable to a USB port or wall adapter.  
+1. Align the charging pins on the cable with the charging port on the smartwatch.  
+1. Ensure the device starts charging (a charging icon appears on the screen).  
 
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.49%20PM.jpeg" width="300">  
 *Figure 1: Fitbit smartwatch and included accessories (Photo by Nasser)*  
@@ -68,14 +68,14 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 ## Step 3: Set Up Your Fitbit Smartwatch  
 
-10.Open the Fitbit app and tap **Set Up a New Device**.  
-11.Select your smartwatch model from the list.  
-12.Follow on-screen instructions to pair the device via **Bluetooth**.  
-13.Log in with an existing Fitbit account or create a new account:  
+1. Open the Fitbit app and tap **Set Up a New Device**.
+1. Select your smartwatch model from the list.  
+1. Follow on-screen instructions to pair the device via **Bluetooth**.  
+1. Log in with an existing Fitbit account or create a new account:  
    - Enter your email address and create a password.  
    - Provide basic profile details such as height, weight, and activity level.  
    - Accept Fitbit’s terms and conditions.  
-14.Follow setup instructions:  
+1. Follow setup instructions:  
    - Connect to Wi-Fi (if required).  
    - Set step goals and notification preferences.  
    - Enable health tracking features or skip for later.  
