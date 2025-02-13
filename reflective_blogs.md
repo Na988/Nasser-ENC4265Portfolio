@@ -179,9 +179,9 @@ This assessment is based on my strong combination of:
 
 Using Boodlebox, the AI analyzed my resume and suggested ways to enhance its professionalism and clarity.  
 
-The most significant change was adding a **professional summary** at the top. This provides a quick snapshot of my expertise in **network security, IT infrastructure, and bilingual communication skills**, helping employers immediately recognize my strengths.  
+The most significant change was adding a professional summary at the top. This provides a quick snapshot of my expertise in network security, IT infrastructure, and bilingual communication skills, helping employers immediately recognize my strengths.  
 
-Another key improvement was the **reorganization of my technical skills** into clearly defined categories. This makes my capabilities more **readable** and **accessible** to hiring managers. Additionally, the AI recommended **quantifying my achievements**, particularly in my **OCERT internship and teaching assistant role**. Adding specific numbers and measurable outcomes turned **general responsibilities into concrete accomplishments**.  
+Another key improvement was the reorganization of my technical skills into clearly defined categories. This makes my capabilities more readable and accessible to hiring managers. Additionally, the AI recommended quantifying my achievements particularly in my OCERT internship and teaching assistant role, Adding specific numbers and measurable outcomes turned general responsibilities into concrete accomplishments.  
 
 ### **Key Takeaways**  
 ✔ A resume should **tell a story** rather than just list job positions.  
@@ -189,4 +189,4 @@ Another key improvement was the **reorganization of my technical skills** into c
 ✔ Tailoring my resume to emphasize **network security and IT infrastructure** makes it more targeted and effective.  
 ✔ **Bilingual skills and international experience** are valuable in the **global tech industry**, and I should highlight them more.  
 
-This experience gave me a **new perspective on personal branding** and how to effectively present my skills to employers.
+This experience gave me a new perspective on personal branding and how to effectively present my skills to employers.
