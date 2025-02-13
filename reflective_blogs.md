@@ -72,7 +72,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 13.Log in with an existing Fitbit account or create a new account:  
    - Enter your email address and create a password.  
    - Provide basic profile details such as height, weight, and activity level.  
-   - Accept Fitbit’s terms and conditions.  
+   - Accept Fitbit’s terms and conditions.
 14.Follow setup instructions:  
    - Connect to Wi-Fi (if required).  
    - Set step goals and notification preferences.  
@@ -92,7 +92,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 16.Adjust settings such as:  
    - Notifications for calls, texts, and apps.  
    - Alarms and reminders.  
-   - Activity tracking preferences.  
+   - Activity tracking preferences.
 17.Explore Fitbit features:  
    - Track steps, heart rate, and workouts.  
    - Log sleep patterns.  
