@@ -25,5 +25,5 @@ To improve the manual, I recommend the following modifications:
 - Provide additional troubleshooting steps for complex issues.  
 - Enhance the index for quicker navigation.  
 
-**AI Statement:** I used Quillbot to improve this assignment.
+**AI Statement:** Quillbot was used to improve this assignment's grammar and wording and ChatGPT was used to help with the Markdown on this assignment.
 
