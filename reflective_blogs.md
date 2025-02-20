@@ -196,7 +196,7 @@ This experience gave me a new perspective on personal branding and how to effect
 
 # Reflective Blog 4  
 
-## Analysis of Domino’s Chatbot "Dom"
+## Prompt E: Analysis of Domino’s Chatbot "Dom"
 
 ["Dom"](https://www.dominos.com/chat-pizza-order/) 
 
