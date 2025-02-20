@@ -5,7 +5,8 @@
 # Table of Contents  
 1. [Reflective Blog 1: Analyzing Early Website Designs](#reflective-blog-1-analyzing-early-website-designs)  
 2. [Reflective Blog 2](#reflective-blog-2)  
-3. [Reflective Blog 3](#reflective-blog-3)  
+3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)  
 
 ---
 
@@ -190,3 +191,7 @@ Another key improvement was the reorganization of my technical skills into clear
 ✔ **Bilingual skills and international experience** are valuable in the **global tech industry**, and I should highlight them more.  
 
 This experience gave me a new perspective on personal branding and how to effectively present my skills to employers.
+
+---
+
+# Reflective Blog 4  
