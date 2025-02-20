@@ -26,7 +26,7 @@ Visiting this old site was interesting, seeing how far web design has progressed
 
 [Edited Using Copilot]
 
----
+
 
 # Reflective Blog 2  
 
@@ -34,7 +34,7 @@ Visiting this old site was interesting, seeing how far web design has progressed
 
 Follow these steps to set up your Fitbit smartwatch for tracking fitness, monitoring sleep, and other features.  
 
----  
+  
 
 ## Step 1: Unbox and Charge Your Fitbit  
 
@@ -85,7 +85,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM.jpeg" width="300">  
 *Figure 5: Choosing a smartwatch model in the Fitbit app (Photo by Nasser)*  
 
----  
+  
 
 ## Step 4: Customize and Sync Your Fitbit  
 
@@ -104,7 +104,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 <img src="https://raw.githubusercontent.com/Na988/Nasser-ENC4265Portfolio/main/WhatsApp%20Image%202025-01-27%20at%208.20.50%20PM%20(1).jpeg" width="300">  
 *Figure 7: Fitbit dashboard showing fitness stats (Photo by Nasser)*  
 
----  
+  
 
 ## Step 5: Wear Your Fitbit Smartwatch  
 
@@ -123,7 +123,7 @@ Your Fitbit smartwatch is now ready to use.
 
 I used a generative AI tool (Boodlebox) to complete the required tasks in the prompt. Below is the result of the analysis and suggested improvements.  
 
----
+
 
 ### **Original Resume**  
 📄 **[View My Original Resume Before Revision](ResumeNasserBeforeAI.pdf)**  
@@ -143,7 +143,7 @@ This assessment is based on my strong combination of:
 - ✔ **Programming capabilities**  
 - ✔ **Teaching experience demonstrating leadership and communication skills**  
 
----
+
 
 ### **Suggested Resume Improvements**  
 
@@ -169,12 +169,12 @@ This assessment is based on my strong combination of:
 - Include a **brief summary** at the top, emphasizing my expertise in **network security and IT**.  
 - Highlight **bilingual capabilities** (English & Arabic) as a unique asset.  
 
----
+
 
 ### **Revised Resume**  
 📄 **[View My Resume After AI Revisions](AIRevisedResume.pdf)**  
 
----
+
 
 ## **Reflection**  
 
@@ -195,3 +195,23 @@ This experience gave me a new perspective on personal branding and how to effect
 ---
 
 # Reflective Blog 4  
+
+## Analysis of Domino’s Chatbot "Dom"
+
+["Dom"](https://www.dominos.com/chat-pizza-order/) 
+
+**Purpose**  
+Dom helps customers order food, track deliveries, and find deals. It is designed to make ordering easy and more convenient.
+
+**Functionality**  
+Dom is designed to guide users through orders, provide real-time tracking, and share promotions. However, it has limits. It does not allow many menu customizations and usually struggles with complex questions, often it will redirect users to customer service.
+
+**User Experience**  
+It is easy to use, with clear prompts and fast responses. However, it sometimes misunderstands requests and lacks personalization, as it does not recognize returning customers or offer tailored suggestions.
+
+**Context**  
+For customers, Dom offers a quick and available way to order and track food. For Domino’s, it helps reduce customer service workload and improves engagement.
+
+**Final Thoughts**  
+I think Dom is useful for basic tasks but needs to improve in menu customization, understanding user requests, and personalization to enhance the experience.  
+
