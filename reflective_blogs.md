@@ -215,3 +215,6 @@ For customers, Dom offers a quick and available way to order and track food. For
 **Final Thoughts**  
 I think Dom is useful for basic tasks but needs to improve in menu customization, understanding user requests, and personalization to enhance the experience.  
 
+**AI Statement:** Quillbot was used to improve this assignment's grammar and wording.  
+
+
