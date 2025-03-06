@@ -12,3 +12,6 @@ Welcome to **Discover Nizwa Bot**, your virtual guide to Nizwa, Oman! This chatb
 - 🗺️ **Travel Tips** – Find the best times to visit and how to get around.  
 
 [👉 Try the Discover Nizwa Bot Now!](https://box.boodle.ai/a/@Discover-Nizwa-Bot)
+
+[Edited using ChatGPT-4]
+
