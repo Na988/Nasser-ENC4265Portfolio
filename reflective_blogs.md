@@ -6,7 +6,9 @@
 1. [Reflective Blog 1: Analyzing Early Website Designs](#reflective-blog-1-analyzing-early-website-designs)  
 2. [Reflective Blog 2](#reflective-blog-2)  
 3. [Reflective Blog 3](#reflective-blog-3)
-4. [Reflective Blog 4](#reflective-blog-4)  
+4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)  
+  
 
 ---
 
@@ -113,7 +115,7 @@ Follow these steps to set up your Fitbit smartwatch for tracking fitness, monito
 
 Your Fitbit smartwatch is now ready to use.  
 
-[Edited using ChatGPT]
+[Edited using ChatGPT-4]
 
 ---
 
@@ -216,5 +218,48 @@ For customers, Dom offers a quick and available way to order and track food. For
 I think Dom is useful for basic tasks but needs to improve in menu customization, understanding user requests, and personalization to enhance the experience.  
 
 **AI Statement:** Quillbot was used to improve this assignment's grammar and wording.  
+
+---
+
+# Reflective Blog 5
+
+## Prompt R: Reflections on Use of AI for the Chatbot Assignment
+
+The AI was helpful in organizing ideas, content production tasks, and polishing responses efficiently. Nevertheless, it had some limitations that needed to be resolved.
+
+### What AI Accomplishes Easily
+
+✅ Fast & Efficient - Produced structured content and chatbot responses in short time.
+
+✅ Organization – Was useful in logically formatting even the most complex ideas.
+
+✅ Creative Suggestions – Used to provide interesting wording and structuring.
+
+### Where AI Faces Challenges
+
+❌ Context Depth – Provided very little contextual information about Nizwa's history.
+
+❌ Customization – Some of the responses sounded too generic or robotic.
+
+### Feedback and Guidance
+
+I had to refine AI responses to ensure accuracy, improve tone, and make interactions more engaging.
+
+### AI’s Training Data: What's Part of It and What Isn’t?
+
+✔ Conversational including history and general knowledge.
+
+❌ Real-time information, local untapped knowledge, and confidential information.
+
+### Prospect of AI in Chatbots
+
+AI will be more integrated into other industries and provide realtime data while sounding human like, however ethical oversight is needed as well. For all the pros AI provides it still needs a human touch for precision and flow.
+
+[Edited using ChatGPT-4]
+
+---
+
+
+
 
 
