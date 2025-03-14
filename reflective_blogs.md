@@ -7,7 +7,8 @@
 2. [Reflective Blog 2](#reflective-blog-2)  
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
-5. [Reflective Blog 5](#reflective-blog-5)  
+5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)   
   
 
 ---
@@ -259,7 +260,65 @@ AI will be more integrated into other industries and provide realtime data while
 
 ---
 
+# Reflective Blog 6  
 
+As an IT professional, I may need to write network security reports detailing cyberattacks and mitigation strategies. I experimented with generative AI (ChatGPT-4) to refine how such reports are generated.
+
+
+## 1) Original Prompt  
+**Prompt:**  
+*"Generate a network security incident report detailing a recent cyberattack on a company's firewall. Include an overview of the attack, affected systems, mitigation steps, and recommendations for security improvements."*  
+
+### Assessment of Generated Output  
+The AI-generated report provided a general summary but lacked technical details. It did not include log entries, attack vectors, or firewall rules affected. The recommendations were too broad and not actionable.  
+
+
+## 2) Revised Prompt  
+**Revised Prompt:**  
+*"Generate a detailed network security incident report for a cyberattack on a corporate firewall. The report should include:*  
+
+- *Incident Summary: Describe the type of attack (e.g., SQL injection, brute force, DDoS) and when it occurred.*  
+- *Timeline of Events: List key timestamps, including detection, response, and resolution times.*  
+- *Log Analysis: Provide sample firewall log entries that show attack patterns.*  
+- *Affected Firewall Rules: Identify security rules that were exploited.*  
+- *Mitigation Actions: Explain how the attack was mitigated, including firewall configuration changes.*  
+- *Security Recommendations: Suggest specific measures such as rule updates, IDS/IPS implementation, and access control improvements.*”*  
+
+### Assessment of Revised Output  
+The refined prompt produced a report with greater technical depth, making it more useful for professional IT documentation.  
+
+
+## 3) AI-Generated Response  
+
+### **Network Security Incident Report: Firewall Breach**  
+
+#### **Incident Summary**  
+On March 10, 2025, at 02:15 AM UTC, a brute force attack targeted the corporate firewall. The attacker exploited an open SSH port with weak authentication policies.  
+
+#### **Timeline of Events**  
+- **02:15 AM:** Multiple failed login attempts detected.  
+- **02:18 AM:** Unauthorized access granted after 100 failed attempts.  
+- **02:20 AM:** Internal system accessed from attacker’s IP.  
+- **02:30 AM:** Security team identified breach and applied firewall updates.  
+
+#### **Log Analysis**  
+Mar 10 02:15:12 Firewall: Failed login attempt from 192.168.45.23 (100 attempts)
+Mar 10 02:18:05 Firewall: Successful login from 192.168.45.23
+
+#### **Affected Firewall Rules**  
+- **Rule 105:** SSH access misconfigured to allow all external IPs.  
+
+#### **Mitigation Actions**  
+- Blocked the attacker's IP address.  
+- Restricted SSH access to internal IP ranges.  
+- Enforced multi-factor authentication (MFA).  
+
+#### **Security Recommendations**  
+- Audit firewall rules every three months.  
+- Implement an intrusion detection system (IDS).  
+- Require MFA for all remote access.  
+
+[Edited using ChatGPT-4]
 
 
 
