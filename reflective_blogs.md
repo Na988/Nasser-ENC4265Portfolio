@@ -338,7 +338,7 @@ Mar 10 02:18:05 Firewall: Successful login from 192.168.45.23
 **A:** ENC4265 is a course focused on technical communication, specifically writing and designing online content such as manuals, tutorials, and reference guides. It emphasizes effective digital communication, minimalist writing, and industry tools like GitHub and Markdown.  
 
 ### Q: What kind of projects can I find here?  
-**A:** The "Projects" section highlights my assignments from ENC4265, including a variety of writing and technical communication tasks. These include:
+**A:** The Projects highlights my assignments from ENC4265, including a variety of writing and technical communication tasks. These include:
 
 **Manual Assessment Memo:** Evaluating an existing product manual.
 
