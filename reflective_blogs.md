@@ -8,7 +8,9 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
-6. [Reflective Blog 6](#reflective-blog-6)   
+6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)   
+  
   
 
 ---
@@ -320,5 +322,34 @@ Mar 10 02:18:05 Firewall: Successful login from 192.168.45.23
 
 [Edited using ChatGPT-4]
 
+---
+
+# Reflective Blog 7
+
+## FAQ - Nasser’s ENC4265 Portfolio
+
+### Q: What is this website about?  
+**A:** This is my personal portfolio for ENC4265, a course focused on writing, communication, and technology. It showcases my skills, projects, and background as I explore these interests.  
+
+### Q: Who is Nasser?  
+**A:** I am a student passionate about writing, technology, and effective communication. You can learn more in the ["About Me"](#) section, but in short, I enjoy blending creativity with technical skills.  
+
+### Q: What is ENC4265?  
+**A:** ENC4265 is a course focused on technical communication, specifically writing and designing online content such as manuals, tutorials, and reference guides. It emphasizes effective digital communication, minimalist writing, and industry tools like GitHub and Markdown.  
+
+### Q: What kind of projects can I find here?  
+**A:** The ["Projects"](#) section highlights my work, including writing-based and tech-related assignments from the course. These include essays, analyses, and small digital experiments.  
+
+### Q: Can I see your resume?  
+**A:** Yes! Head to the ["Resume"](#) section to download a PDF of my education, skills, and experience.  
+
+### Q: Is this site still being updated?  
+**A:** As of **March 27, 2025**, this is a snapshot of my work for ENC4265. I might tweak it as I go, but it is mainly a course project. Stay tuned for future updates!  
+
+### Q: Why GitHub Pages?  
+**A:** I chose GitHub Pages because it’s a free and simple way to host a static site. Plus, it reflects my interest in tech and coding—keeping things streamlined and accessible.  
+
+### Q: What’s your favorite part of this portfolio?  
+**A:** Tough call, but I’d say the ["procedure_video"](#) section.  
 
 
