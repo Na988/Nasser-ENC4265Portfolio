@@ -8,8 +8,6 @@
 # Honda Ruckus Owner's Manual
 
 *Your Guide to Safe and Enjoyable Riding*  
-*Created by [Your Name]*  
-*April 06, 2025*
 
 ---
 
