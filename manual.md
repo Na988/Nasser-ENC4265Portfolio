@@ -6,8 +6,8 @@
 ---
 <h2>📘 Honda Ruckus Manual</h2>
 
-<iframe src="assets/Manual.pdf" width="100%" height="600px">
+<iframe src="Manual.pdf" width="100%" height="600px">
   <p>Your browser does not support PDF viewing. 
-  <a href="assets/Manual.pdf">Download the PDF</a>.</p>
+  <a href="Manual.pdf">Download the PDF</a>.</p>
 </iframe>
 
