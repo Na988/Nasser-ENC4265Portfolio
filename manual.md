@@ -2,12 +2,25 @@
 
 # Manual 
 
+---
+
+## 📘 Honda Ruckus Manual
+
+This manual provides a complete guide to owning and operating a Honda Ruckus (NPS50) scooter. It includes safety guidelines, maintenance procedures, riding tips, troubleshooting advice, and more. Whether you're a new rider or an experienced owner, this document will help you get the most out of your Ruckus while staying safe on the road.
 
 ---
-## 📘 2022 Honda Ruckus Manual
 
-This manual provides a complete guide to owning and operating a Honda Ruckus (NPS50) scooter. It includes safety guidelines, Operation Guide, maintenance procedures, riding tips, troubleshooting advice, and more. Whether you're a new rider or an experienced owner, this document will help you get the most out of your Ruckus while staying safe on the road.
+### 📄 View the Manual Below
 
-👉 [**Click to View the Honda Ruckus Manual (PDF)**](Manual.pdf)
+<iframe src="Manual.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
+  <p>Your browser does not support PDF viewing. 
+  <a href="Manual.pdf">Download the PDF</a>.</p>
+</iframe>
 
-> **Note:** If the PDF does not open in your browser, right-click the link and choose **"Save link as..."** to download.
+---
+
+### ⬇️ Download the Manual
+
+If you'd prefer to download the manual for offline viewing, click the link below:
+
+👉 [**Download Honda Ruckus Manual (PDF)**](Manual.pdf)
