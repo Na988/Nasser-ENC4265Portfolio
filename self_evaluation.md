@@ -37,4 +37,4 @@ Thank you for designing such a thoughtful and forward-thinking course. ENC4265 h
 
 ---
 
-[I used ChatGPT-4o to brainstorm and also help organize my ideas and check my writing clarity and grammar]
+[I used ChatGPT-4o to brainstorm, organize my ideas, and check for clarity and grammar in my writing.]
