@@ -31,7 +31,7 @@ This semester, I made meaningful use of **AI tools like ChatGPT and BoodleBox**.
 
 ## 📝 Final Thoughts and Feedback
 
-This course was both practical and intellectually engaging. I appreciated how each assignment built on the last and allowed for creativity, self-direction, and exploration of real-world applications. One small suggestion would be to include a short summary video in each module. It could really help visual learners better grasp the weekly material
+This course was both practical and intellectually engaging. I appreciated how each assignment built on the last and allowed for creativity, self-direction, and exploration of real-world applications. One small suggestion would be to include a short summary video in each module. It could really help visual learners better grasp the weekly material.
 
 Thank you for designing such a thoughtful and forward-thinking course. ENC4265 has become a highlight of my semester and helped me build communication skills I’ll carry into my professional future.
 
