@@ -1,4 +1,5 @@
-[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [FAQ Page](FAQ_Page.md) 
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [ENC4265: Self-Evaluation](self_evaluation.md) | [Reflective Blogs](reflective_blogs.md) | [FAQ Page](FAQ_Page.md) 
+
 
 # FAQ - Nasser’s ENC4265 Portfolio
 
