@@ -36,3 +36,5 @@ This course was both practical and intellectually engaging. I appreciated how ea
 Thank you for designing such a thoughtful and forward-thinking course. ENC4265 has become a highlight of my semester and helped me build communication skills I’ll carry into my professional future.
 
 ---
+
+[Used ChatGPT-4o to brainstorm and also help organize my ideas and check my writing clarity and grammar]
