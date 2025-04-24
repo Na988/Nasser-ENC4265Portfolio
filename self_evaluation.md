@@ -1,3 +1,6 @@
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [ENC4265: Self-Evaluation](self_evaluation.md) | [Reflective Blogs](reflective_blogs.md) | [FAQ Page](FAQ_Page.md) 
+
+
 # Final Reflection – ENC4265: Self-Evaluation
 
 As I wrap up ENC4265, I find myself reflecting not only on the assignments I completed but also on the professional and personal growth I’ve experienced throughout the semester. This course pushed me to think critically about how we communicate in technical environments and challenged me to refine my skills in writing, design, documentation, and the ethical use of emerging tools like AI.
